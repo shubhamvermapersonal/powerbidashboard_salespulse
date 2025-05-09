@@ -1,3 +1,9 @@
+## 🖼 Dashboard Preview
+
+![Sales Pulse Dashboard](https://github.com/shubhamvermapersonal/powerbidashboard_salespulse/blob/15503a418601445b8bd94937eec8de7b977a23bf/sales%20pulse%20dashboard.png)
+
+---
+
 # 📊 Sales Pulse Dashboard
 
 The **Sales Pulse Dashboard** is an interactive Power BI report that provides key insights into sales, profit, and product performance metrics. Built using a sample financial dataset, this dashboard enables businesses to monitor and analyze performance across countries, customer segments, and products to make data-driven decisions.
@@ -61,12 +67,6 @@ The dashboard provides the following KPIs to analyze performance:
   Real-time totals and averages displayed on the dashboard  
 - 🌐 **Modern Dark Theme UI**:  
   Enhanced visual clarity and modern design  
-
----
-
-## 🖼 Dashboard Preview
-
-![Sales Pulse Dashboard](https://github.com/shubhamvermapersonal/powerbidashboard_salespulse/blob/15503a418601445b8bd94937eec8de7b977a23bf/sales%20pulse%20dashboard.png)
 
 ---
 
