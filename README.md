@@ -1,6 +1,6 @@
 ## 🖼 Dashboard Preview
 
-![Sales Pulse Dashboard]([https://github.com/shubhamvermapersonal/powerbidashboard_salespulse/blob/15503a418601445b8bd94937eec8de7b977a23bf/sales%20pulse%20dashboard.png](https://github.com/shubhamvermapersonal/powerbidashboard_salespulse/blob/588e1a2a123ec50e3ab56fe22c53614434e3eed3/Screenshot%202025-05-13%20213248.png))
+![Sales Pulse Dashboard](https://github.com/shubhamvermapersonal/powerbidashboard_salespulse/blob/main/Screenshot%202025-05-13%20213248.png)
 
 ---
 
